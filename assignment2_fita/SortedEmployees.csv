@@ -1,0 +1,10 @@
+Emp Id, Emp Name, Department, Manager Id, Gross Salary, Experience
+A127,Anirban Roy,IT,null,1643000,7
+A104,Nancy Mathew,IT,null,1749000,9
+A192,Robert Vargheese,IT,A187,3105000,19
+A169,Sundar Ramanujam,Marketing,A189,1900000,23
+A194,Abdul Ajees,Marketing,A164,1569000,10
+A135,Aruna Surendar,Sales,A164,2350000,11
+A164,Asif Mustafa,Sales,A189,2856000,16
+A205,Suresh Paramanandan,Sales,A189,1134000,8
+A189,Anshuman Gupta,Sales,A209,3124000,20
